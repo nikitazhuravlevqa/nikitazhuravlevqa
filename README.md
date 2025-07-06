@@ -25,7 +25,7 @@
   <li><a href="https://github.com/nikitazhuravlevqa/database">💾 Базы данных</a> – написание SQL-запросов, работа с SELECT и JOIN. Создание коллекции в MongoDB</li>
   <li><a href="https://github.com/nikitazhuravlevqa/mobile">📱 Мобильное тестирование</a> – функциональное и UI-тестирование Android-приложения shopping-list</li>
   <li><a href="https://github.com/nikitazhuravlevqa/charles_proxy">🔍 Перехват трафика (Charles Proxy)</a> – анализ и изменение HTTP/HTTPS-запросов на ПК и iPhone</li>
-  <li><a href="https://github.com/nikitazhuravlevqa/git">🐚 Работа с Git Bash</a> – отправляю базовые команды в Git Bash</li>
+  <li><a href="https://github.com/nikitazhuravlevqa/git_bash">🐚 Работа с Git Bash</a> – отправляю базовые команды в Git Bash</li>
 
   
 </ul>
