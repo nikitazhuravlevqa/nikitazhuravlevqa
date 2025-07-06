@@ -18,8 +18,9 @@
 
 <h2>📁 Учебные проекты и артефакты</h2>
 <ul>
+  <li><a href="https://github.com/nikitazhuravlevqa/theory">📖 Теория тестирования </a> – методы, типы и уровни тестирования, анализ требований и выявление их несоответствий </li>
   <li><a href="https://github.com/nikitazhuravlevqa/web">🛍️ Тестирование интернет-магазина (DemoShopping)</a> – исследовательское и функциональное тестирование, тест-план, чек-лист, тест-кейсы, баг-репорты</li>
- <li><a href="https://github.com/nikitazhuravlevqa/api">🔌 API-тестирование</a> – тестирование REST и SOAP API с помощью Postman</li>
+  <li><a href="https://github.com/nikitazhuravlevqa/api">🔌 API-тестирование</a> – тестирование REST и SOAP API с помощью Postman</li>
 
 </ul>
 
