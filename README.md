@@ -21,8 +21,8 @@
   <li><a href="https://github.com/nikitazhuravlevqa/theory">📖 Теория тестирования </a> – методы, типы и уровни тестирования, анализ требований и выявление их несоответствий </li>
   <li><a href="https://github.com/nikitazhuravlevqa/design">📊 Техники тест-дизайна</a> – практическое применение эквивалентного разбиения, граничных значений, попарного тестирования и таблицы принятия решений</li>
   <li><a href="https://github.com/nikitazhuravlevqa/web">🛍️ Тестирование интернет-магазина (DemoShopping)</a> – исследовательское и функциональное тестирование, тест-план, чек-лист, тест-кейсы, баг-репорты</li>
-  <li><a href="https://github.com/nikitazhuravlevqa/api">🔌 API-тестирование</a> – тестирование REST и SOAP API с помощью Postman</li>
-  <li><a href="https://github.com/nikitazhuravlevqa/database">💾 Базы данных</a> – чтение, написание и тестирование SQL-запросов, работа с SELECT и JOIN. Создание коллекции в MongoDB</li>
+  <li><a href="https://github.com/nikitazhuravlevqa/api">🔄 API-тестирование</a> – тестирование REST и SOAP API с помощью Postman</li>
+  <li><a href="https://github.com/nikitazhuravlevqa/database">💾 Базы данных</a> – написание SQL-запросов, работа с SELECT и JOIN. Создание коллекции в MongoDB</li>
   
 </ul>
 
