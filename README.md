@@ -16,7 +16,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>
 </p>
 
-<h2>📁 Учебные проекты и артефакты</h2>
+<h2>📁 Тестовые артефакты</h2>
 <ul>
   <li><a href="https://github.com/nikitazhuravlevqa/theory">📖 Теория тестирования </a> – методы, типы и уровни тестирования, анализ требований и выявление их несоответствий </li>
   <li><a href="https://github.com/nikitazhuravlevqa/design">📊 Техники тест-дизайна</a> – практическое применение эквивалентного разбиения, граничных значений, попарного тестирования и таблицы принятия решений</li>
