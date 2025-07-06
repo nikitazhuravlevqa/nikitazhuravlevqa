@@ -24,7 +24,7 @@
   <li><a href="https://github.com/nikitazhuravlevqa/api">🔄 API-тестирование</a> – тестирование REST и SOAP API с помощью Postman</li>
   <li><a href="https://github.com/nikitazhuravlevqa/database">💾 Базы данных</a> – написание SQL-запросов, работа с SELECT и JOIN. Создание коллекции в MongoDB</li>
   <li><a href="https://github.com/nikitazhuravlevqa/mobile">📱 Мобильное тестирование</a> – функциональное и UI-тестирование Android-приложения shopping-list</li>
-  <li><a href="https://github.com/nikitazhuravlevqa/mobile">🔍 Перехват трафика (Charles Proxy)</a> – анализ и изменение HTTP/HTTPS-запросов на ПК и iPhone</li>
+  <li><a href="https://github.com/nikitazhuravlevqa/charles_proxy">🔍 Перехват трафика (Charles Proxy)</a> – анализ и изменение HTTP/HTTPS-запросов на ПК и iPhone</li>
   
 </ul>
 
