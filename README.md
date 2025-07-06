@@ -22,7 +22,8 @@
   <li><a href="https://github.com/nikitazhuravlevqa/design">📊 Техники тест-дизайна</a> – практическое применение эквивалентного разбиения, граничных значений, попарного тестирования и таблицы принятия решений</li>
   <li><a href="https://github.com/nikitazhuravlevqa/web">🛍️ Тестирование интернет-магазина (DemoShopping)</a> – исследовательское и функциональное тестирование, тест-план, чек-лист, тест-кейсы, баг-репорты</li>
   <li><a href="https://github.com/nikitazhuravlevqa/api">🔌 API-тестирование</a> – тестирование REST и SOAP API с помощью Postman</li>
-
+  <li><a href="https://github.com/nikitazhuravlevqa/database">💾 Базы данных</a> – чтение, написание и тестирование SQL-запросов, работа с SELECT и JOIN</li>
+  
 </ul>
 
 <h3 align="center">📫 Контакты для связи </h3>
