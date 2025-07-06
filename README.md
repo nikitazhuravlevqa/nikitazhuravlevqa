@@ -23,6 +23,7 @@
   <li><a href="https://github.com/nikitazhuravlevqa/web">🛍️ Тестирование интернет-магазина (DemoShopping)</a> – исследовательское и функциональное тестирование, тест-план, чек-лист, тест-кейсы, баг-репорты</li>
   <li><a href="https://github.com/nikitazhuravlevqa/api">🔄 API-тестирование</a> – тестирование REST и SOAP API с помощью Postman</li>
   <li><a href="https://github.com/nikitazhuravlevqa/database">💾 Базы данных</a> – написание SQL-запросов, работа с SELECT и JOIN. Создание коллекции в MongoDB</li>
+  <li><a href="https://github.com/nikitazhuravlevqa/mobile">📱 Мобильное тестирование</a> – функциональное и UI-тестирование Android-приложения shopping-list</li>
   
 </ul>
 
