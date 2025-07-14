@@ -1,6 +1,17 @@
 <h2 align="center">Привет! Я — Никита Журавлев 👋</h2>
 <p align="center">Начинающий QA-инженер | Учусь, практикуюсь и ищу первую работу или стажировку</p>
 
+<h2>📄 Моё резюме</h2>
+<p>
+  <a href="https://drive.google.com/file/d/1HK1xep693YbSvanBPBrsenUHxMvbRqcB/view?usp=sharing" target="_blank">
+    <strong> Посмотреть резюме </strong>
+  </a>
+</p>
+
+
+
+
+
 <h2>🛠 Инструменты, с которыми работаю</h2>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
