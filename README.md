@@ -3,7 +3,7 @@
 
 <h2>📄 Моё резюме</h2>
 <p>
-  <a href="https://drive.google.com/file/d/1yuHhv2OHbi-Oaludy9dRu5h-6g5winqa/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1rnOqbYDxd6CXN7bmApiMbwELwcX3oqLj/view?usp=sharing" target="_blank">
     <strong> Посмотреть резюме </strong>
   </a>
 </p>
